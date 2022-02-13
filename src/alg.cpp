@@ -4,6 +4,7 @@
 using namespace std;
 
 int gcd(int a, int b) 
+    
 {
     // поместить сюда текст реализации алгоритма (на С++)
     while (true)
