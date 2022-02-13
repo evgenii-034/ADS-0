@@ -3,8 +3,7 @@
 #include "alg.h"
 using namespace std;
 
-int gcd(int a, int b)
-{
+
     while (true)
     {
         a = a % b;
